@@ -2,7 +2,8 @@
 
 ## 📝 Instructions
 
-There is an anchor taking you to google.com, please make it open a new window using the target attribute.
+There is an anchor taking you to google.com, please make it open a new window using the 
+target attribute.
 
 ## 💡 Hint
 
